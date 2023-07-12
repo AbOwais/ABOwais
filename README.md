@@ -1,4 +1,4 @@
-![logo](https://github.com/AbOwais/ABOwais/blob/00e01ff3c9189f969a1c9b6f76c334cbee216b4d/Untitled%20design.png)
+![logo](https://github.com/AbOwais/ABOwais/blob/main/White%20Blue%20Modern%20Webinar%20Banner%20Landscape.png)
 <h1 align="center">Hi 👋, I'm Abdul Owais</h1>
 <h3 align="center">A Beginner frontend developer from Pakistan</h3>
 
